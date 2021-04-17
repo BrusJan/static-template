@@ -1,0 +1,16 @@
+.container {
+  max-width: 900px;
+}
+.btn {
+  border: 3px solid black;
+  box-shadow: 0 0 3px #000000a1;
+  color: black;
+  background: rgb(255 177 37);
+}
+.btn-primary:hover {
+  background: rgb(255 144 29);
+  border-color: black;
+  color: black;
+}
+.card {
+}

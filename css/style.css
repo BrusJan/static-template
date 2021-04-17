@@ -1,0 +1,33 @@
+body {
+  /*background: rgb(255,88,59);
+  background: linear-gradient(90deg, rgba(255,88,59,1) 0%, rgba(255,178,127,1) 100%);*/
+  background-image: url('../img/stehovani_bg.jpg');
+  background-repeat: no-repeat;
+  background-color: white;
+}
+#main-hero {
+  color: white;
+}
+#pre-content {
+  background: url("../img/rounded_prechod.png");
+  height: 89px;
+}
+#content {
+  background: #fafafa;
+  min-height: 25em;  
+}
+#content .container {
+  margin: auto;
+}
+h1 {
+  color: #ffffff;
+  text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;
+}
+#main-hero p {
+  color: #ffffff;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+#hero-inner {
+  border-radius: .4rem;
+  background: #1c4d4666;
+}
